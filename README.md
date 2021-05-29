@@ -42,6 +42,7 @@ Grad-CAM visualization on CNN models
   2. AlexNet 
   3. VGG19 with batch norm
   4. ResNet50
+- Report: STAT_453_Report.pdf
 
 - helper_functions: dataset, evaluation, train, plotting are written by Professor [Sebastian Raschka](https://github.com/rasbt/stat453-deep-learning-ss21/tree/main/L13/code)
 - helper_GradCAM: code borrowed from Kaggle Notebook by [Debarshi Chanda](https://www.kaggle.com/debarshichanda/gradcam-visualize-your-cnn) 
