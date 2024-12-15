@@ -1,4 +1,4 @@
-# Stat453_Chest_XRay_Disease_Detection
+# Chest_XRay_Disease_Detection
 
 ## COVID and Lung Disease Detection from Xray images
 - **Intro**: Due to the quick spread of COVID-19, many patients were unable to access required treatments in time. Therefore, we are motivated to develop deep learning models that can quickly and accurately classify lung diseases and address them with the appropriate treatments in a timely matter.
